@@ -1,4 +1,3 @@
-
 #  Dictionary Methods
 my_dict = {"name": "Jeni", "age": 22, "course": "IT"}
 print(my_dict.keys())       # keys()
@@ -100,7 +99,6 @@ print(len(nums))            # len()
 print(type(nums))           # type()
 
 # Loops
-
 # For Loop
 for i in range(5):
     print("For Loop:", i)
